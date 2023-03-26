@@ -21,7 +21,7 @@ export default function Navbar() {
        
       </ul>
       <div>
-        <button className="btn btn-primary">Your bal.: {amount}₹</button>
+        <button className="btn btn-primary">Your bal.: {amount} ₹</button>
       </div>
     </div>
   </div>
